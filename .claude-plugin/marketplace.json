@@ -1,9 +1,12 @@
 {
   "name": "focus-sian",
-  "description": "Focus & Sian: a council of two advisors, inspired by the methods of Steve Jobs and Taiichi Ohno, that debate your project and agree on a strategy.",
   "owner": {
     "name": "Cinto Casals",
     "url": "https://www.cintocasals.com"
+  },
+  "metadata": {
+    "description": "Focus & Sian: a council of two advisors, inspired by the methods of Steve Jobs and Taiichi Ohno, that debate your project and agree on a strategy.",
+    "version": "0.2.1"
   },
   "plugins": [
     {

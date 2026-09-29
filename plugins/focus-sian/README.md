@@ -75,7 +75,7 @@ Production System* (1978), *Workplace Management* (1982) and first-hand accounts
 *Make Something Wonderful* (Steve Jobs Archive, 2023), his interviews and talks, and accounts by Catmull, Kocienda,
 Lashinsky and Isaacson. Quotes known to be misattributed are excluded on purpose.
 
-© 2026 Cinto Casals · [cintocasals.com](https://www.cintocasals.com)
+[MIT License](LICENSE) · © 2026 Cinto Casals · [cintocasals.com](https://www.cintocasals.com)
 
 ---
 

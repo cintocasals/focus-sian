@@ -1,19 +1,21 @@
 {
   "name": "focus-sian",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A council of two advisors that debate your project. Focus is inspired by Steve Jobs's method (experience, focus, value) and Sian by Taiichi Ohno's (flow, waste, facts); they are simulations, not those people. They analyze it separately, critique each other, sign a joint strategy you approve, and write the execution prompt. Every step is recorded in visible minutes.",
   "author": {
     "name": "Cinto Casals",
     "url": "https://www.cintocasals.com"
   },
   "homepage": "https://www.cintocasals.com",
+  "repository": "https://github.com/cintocasals/focus-sian",
+  "license": "MIT",
   "keywords": [
     "strategy",
     "debate",
     "advisors",
     "council",
     "lean",
-    "toyota",
+    "kaizen",
     "product",
     "decision-making"
   ]
